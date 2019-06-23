@@ -10,7 +10,7 @@
 <channel>
 	<title>Luigi Creese Photorgaphy</title>
 	<atom:link href="http://luigicreese.cf/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luigicreese.cf</link>
+	<link>http://luigicreese.cf/</link>
 	<description>Portfolio @luigicreese</description>
 	<lastBuildDate>2019-06-23 06:20:27</lastBuildDate>
 	<language>en-US</language>
